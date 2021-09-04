@@ -1,0 +1,17 @@
+# --------------------------------------------
+# Python
+# --------------------------------------------
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+sprites
+canciones
+*.py[cod]
+*$py.class
+
+*.idea
+*.DS_STORE
+*.csv
+*.pdf
+.vscode
+jola.txt
